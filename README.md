@@ -1,6 +1,7 @@
 # GitHub Folder Icon for Mac
 
 A simple folder icon for Macs to represent your GitHub folder.
+
 Created by [Richard Girardin](http://girard.in) based on the [GitHub logo and mark](https://github.com/logos).
 
 ## How to Use
